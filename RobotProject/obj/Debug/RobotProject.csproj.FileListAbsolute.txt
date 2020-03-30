@@ -1,0 +1,28 @@
+C:\Users\Софья\source\repos\RobotProject\RobotProject\bin\Debug\RobotProject.exe.config
+C:\Users\Софья\source\repos\RobotProject\RobotProject\bin\Debug\RobotProject.exe
+C:\Users\Софья\source\repos\RobotProject\RobotProject\bin\Debug\RobotProject.pdb
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.csprojAssemblyReference.cache
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.Form1.resources
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.Properties.Resources.resources
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.csproj.GenerateResource.cache
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.csproj.CoreCompileInputs.cache
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.exe
+C:\Users\Софья\source\repos\RobotProject\RobotProject\obj\Debug\RobotProject.pdb
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\bin\Debug\RobotProject.exe.config
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\bin\Debug\RobotProject.exe
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\bin\Debug\RobotProject.pdb
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.csprojAssemblyReference.cache
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.Form1.resources
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.Properties.Resources.resources
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.csproj.GenerateResource.cache
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.exe
+C:\Users\sekou\Dropbox\Files\year 2020\мирэа\преподавание\крбо-03-17\RobotProject\RobotProject\obj\Debug\RobotProject.pdb
+C:\Users\Даниил\Desktop\ИИ\RobotProject\bin\Debug\RobotProject.exe.config
+C:\Users\Даниил\Desktop\ИИ\RobotProject\bin\Debug\RobotProject.exe
+C:\Users\Даниил\Desktop\ИИ\RobotProject\bin\Debug\RobotProject.pdb
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.Form1.resources
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.Properties.Resources.resources
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.exe
+C:\Users\Даниил\Desktop\ИИ\RobotProject\obj\Debug\RobotProject.pdb
